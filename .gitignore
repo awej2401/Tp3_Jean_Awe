@@ -1,0 +1,28 @@
+# Build / CLion
+cmake-build-debug/
+cmake-build-release/
+build/
+.idea/
+
+# Fichiers compilés
+*.o
+*.out
+*.exe
+
+# Fichiers de sortie
+*.tsv
+
+# Tests (si non requis)
+test_*
+
+# Données lourdes
+*.fa
+
+# MacOS
+.DS_Store
+
+# Executables / bin
+bin/
+
+# Fichiers de sortie
+output.txt
